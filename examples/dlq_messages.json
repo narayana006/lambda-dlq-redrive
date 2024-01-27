@@ -1,0 +1,224 @@
+{
+  "Messages": [
+    {
+      "MessageId": "cf44dd3f-89e7-415f-9736-2f25244caf9c",
+      "Body": "{\"order_id\": \"ord-1040\", \"customer_id\": \"cust-744\", \"total\": 156.96, \"source\": \"mobile\"}",
+      "Attributes": {
+        "SentTimestamp": "1767607800000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "4dabb481-7253-4dc6-9818-79932fa91425",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "2026-01-05T10:10:03.004Z 4dabb481-7253-4dc6-9818-79932fa91425 Task timed out after 3.00 seconds",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "9d95847e-bd29-4753-a767-779673f778aa",
+      "Body": "{\"order_id\": \"ord-1041\", \"customer_id\": \"cust-810\", \"total\": 161.9, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767607861000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "f6fa5db8-656a-4d72-bb71-0734986e86cb",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "An error occurred (ProvisionedThroughputExceededException) when calling the PutItem operation: The level of configured provisioned throughput for the table was exceeded.",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "e12b2b8f-30b1-4d0b-8920-8a650f3ebdd3",
+      "Body": "{\"order_id\": \"ord-1042\", \"customer_id\": \"cust-765\", \"total\": 46.96, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767607922000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "102b938b-8743-4eb6-94ea-65d003d71684",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "2026-01-05T10:12:03.004Z 102b938b-8743-4eb6-94ea-65d003d71684 Task timed out after 3.00 seconds",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "84e55160-3200-44ea-97a9-4ded97491e23",
+      "Body": "{\"order_id\": \"ord-1043\", \"customer_id\": \"cust-347\", \"total\": 153.51, \"source\": \"mobile\"}",
+      "Attributes": {
+        "SentTimestamp": "1767607983000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "70c6a5b8-5387-4613-b6c4-68aec7321cc0",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "2026-01-05T10:13:03.004Z 70c6a5b8-5387-4613-b6c4-68aec7321cc0 Task timed out after 3.00 seconds",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "6822a6b2-4735-4f1c-a7a1-149075139237",
+      "Body": "{\"order_id\": \"ord-1044\", \"customer_id\": \"cust-339\", \"total\": 163.31, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608044000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "15c1d2df-a996-4aef-812d-0ea67ff12229",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "An error occurred (ProvisionedThroughputExceededException) when calling the PutItem operation: The level of configured provisioned throughput for the table was exceeded.",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "834c687a-3acb-4266-820b-a2c250b601fc",
+      "Body": "{\"order_id\": \"ord-1045\", \"customer_id\": \"cust-664\", \"total\": 248.96, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608105000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "4105cca7-b533-42fc-954c-d2aad7185dda",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "An error occurred (ProvisionedThroughputExceededException) when calling the PutItem operation: The level of configured provisioned throughput for the table was exceeded.",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "62f28d1a-4a78-4cb3-98b9-b45c1b98fbe4",
+      "Body": "{\"order_id\": \"ord-1046\", \"customer_id\": \"cust-395\", \"total\": 16.17, \"source\": \"mobile\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608166000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "66809a11-1ba1-492e-842b-7170902a174f",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "2026-01-05T10:16:03.004Z 66809a11-1ba1-492e-842b-7170902a174f Task timed out after 3.00 seconds",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "0d650372-e907-44df-ad52-a24135b00a54",
+      "Body": "{\"order_id\": \"ord-1047\", \"customer_id\": \"cust-168\", \"total\": 239.89, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608227000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "36a80bdf-0023-4682-af55-70eed8e94b15",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "429",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "Rate Exceeded.",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "c74c7ccf-32d0-4fdd-a123-f50190f5380e",
+      "Body": "{\"order_id\": \"ord-1048\", \"total\": 99.49, \"source\": \"web\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608288000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "12b2a414-6b77-430f-a5bd-9acbb57a6a1d",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "KeyError: 'customer_id'",
+          "DataType": "String"
+        }
+      }
+    },
+    {
+      "MessageId": "ec3fbf4d-c20e-4164-a8f9-18d8f6cdb2f8",
+      "Body": "{\"order_id\": \"ord-1049\", \"total\": 74.02, \"source\": \"mobile\"}",
+      "Attributes": {
+        "SentTimestamp": "1767608349000",
+        "ApproximateReceiveCount": "1"
+      },
+      "MessageAttributes": {
+        "RequestID": {
+          "StringValue": "03e0d681-5524-44f1-8fab-6f3e164f1513",
+          "DataType": "String"
+        },
+        "ErrorCode": {
+          "StringValue": "200",
+          "DataType": "Number"
+        },
+        "ErrorMessage": {
+          "StringValue": "KeyError: 'customer_id'",
+          "DataType": "String"
+        }
+      }
+    }
+  ]
+}
